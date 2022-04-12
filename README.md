@@ -1,4 +1,4 @@
-## Repo for my personal website. Template with themes sourced from: https://startbootstrap.com/template-overviews/resume/
+### Repo for my personal website. Template with themes sourced from: https://startbootstrap.com/template-overviews/resume/
 
 ## About
 
