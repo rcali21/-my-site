@@ -8372,3 +8372,7 @@ a.text-dark:focus, a.text-dark:hover {
   visibility: hidden !important;
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.bibbase.author.link[href="http://cs.stanford.edu/people/davidknowles/"] {
+  font-weight: bold;
+}
