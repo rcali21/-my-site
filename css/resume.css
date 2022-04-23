@@ -14,15 +14,22 @@ body {
     padding-left: 17rem; } }
 
 h1,
-h2,
-h3,
+h2, 
+h3 {
+  
+  color:blue;
+  width:100px;
+  height: 100px;
+}
 h4, 
 h5,
 h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 1000;
   text-transform: uppercase;
-  color: #aa0134; }
+  color: #aa0134;
+  padding: 100;
+  border: 100; }
 
 h1 {
   font-size: 6rem;
@@ -114,4 +121,5 @@ a {
   color: #BD5D38; }
   a:hover, a:focus, a:active {
     color: #824027; }
+
 
